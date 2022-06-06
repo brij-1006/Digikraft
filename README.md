@@ -12,7 +12,7 @@
 * Zod validation
 * Swagger documentation 
 
-## Video structure
+##  structure
 1. What are we going to build (Swagger documentation demo - Philadelphia bike-sharing)
 2. Code walk-through
 3. Bootstrap application
