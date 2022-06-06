@@ -1,5 +1,5 @@
 ## Concepts
-* REST API principals
+* REST HTTP REQUEST
     * CRUD
     * HTTP methods
 * JWT & refresh tokens
