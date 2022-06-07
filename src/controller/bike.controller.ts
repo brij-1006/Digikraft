@@ -6,7 +6,6 @@ import {
   getStations,
   getWeatherByCity,
   findStation,
-  findStationAt,
   findStationByKioskId
 } from "../service/station.service";
 import logger from "../utils/logger";
