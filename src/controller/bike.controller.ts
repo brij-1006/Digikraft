@@ -131,7 +131,7 @@ export async function getOneBikeStationsTimeRangeHandler(req: Request, res: Resp
       const kioskId = req.params.id;
       console.log('======kioskId============> ',kioskId);
 
-      const frequency:string = query.frequency?query.frequency:'hourly';
+      const frequency:any = query.frequency?query.frequency:'hourly';
       console.log('======frequency============> ',frequency);
 
 
